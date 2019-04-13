@@ -1,0 +1,2 @@
+this is the file master.txt
+practice of day 1
